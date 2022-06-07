@@ -26,6 +26,15 @@ Biomedical Engineering Laboratory
 
 
 <!-- Description -->
+- [Lab 1: ECG Monitor using AD8232][Lab1]
+- [Lab 2: ][Lab2]
+- [Lab 3: ][Lab3]
+- [Lab 4: ][Lab4]
+- [Lab 5: ][Lab5]
+- [Lab 6: ][Lab6]
+- [Lab 7: ][Lab7]
+- [Lab 8: ][Lab8]
+
 
 
 
@@ -37,11 +46,13 @@ Biomedical Engineering Laboratory
 <!-- Include your major tools and frameworks -->
 ## Built With
 Software: 
-- Arduino IDE
-- LabVIEW
+- [Arduino IDE][Arduino IDE]
+- 
 ## 
 Hardware: 
-- [LCD]
+- [Arduino Uno][Arduino Uno]
+- [Electrodes][Electrodes]
+- 
 
 <!-- Authors information -->
 ## Author
@@ -54,9 +65,8 @@ This project is licensed under the MIT License - see the [LICENSE][license_url] 
 
 
 <!-- Shoutout to other projects, plugin, or minor tools -->
-<!-- ## Acknowledgments
-Special thank to
-- [Best-README-Template][Best-README-Template]
+ ## References
+- [ECG Monitor][ECG Monitor]
 
 
 <!-- Course -->
@@ -83,7 +93,12 @@ Special thank to
 
 <!-- Other URLs -->
 [github]: https://github.com/socheathsok
-[course]: hhttp://catalog.csulb.edu/preview_course_nopop.php?catoid=6&coid=55355
+[course]: http://catalog.csulb.edu/preview_course_nopop.php?catoid=6&coid=55355
+[Lab1]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%201
+[ECG Monitor]: https://www.instructables.com/ECG-Monitoring-System-by-Using-Arduino-or-AD8232/
+[Electrodes]: https://www.amazon.com/BioProtech-Universal-ECG-EKG-Electrodes/dp/B06VWVKJ5D/ref=sr_1_3?keywords=ecg+electrodes&qid=1654583398&sr=8-3
+[Arduino Uno]: https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6
+[Arduino IDE]: https://www.arduino.cc/en/software
 [Best-README-Template]: https://github.com/othneildrew/Best-README-Template
 
 
