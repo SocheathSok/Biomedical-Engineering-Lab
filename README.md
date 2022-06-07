@@ -27,15 +27,13 @@ Biomedical Engineering Laboratory
 
 <!-- Description -->
 - [Lab 1: ECG Monitor using AD8232][Lab1]
-- [Lab 2: ][Lab2]
-- [Lab 3: ][Lab3]
-- [Lab 4: ][Lab4]
-- [Lab 5: ][Lab5]
-- [Lab 6: ][Lab6]
-- [Lab 7: ][Lab7]
-- [Lab 8: ][Lab8]
-
-
+- [Lab 2: Activity Counter][Lab2]
+- [Lab 3: Audiometer][Lab3]
+- [Lab 4: Thermometer][Lab4]
+- [Lab 5: Color Sensor for Visually Impaired Patients][Lab5]
+- [Lab 6: Heart Rate Indicator (LabVIEW)][Lab6]
+- [Lab 7: Home-Based Medical Devices][Lab7]
+- [Lab 8: ECG Signal Acquisition and Analysis][Lab8]
 
 
 <!-- Include externals file that you need to run the program -->
@@ -95,6 +93,13 @@ This project is licensed under the MIT License - see the [LICENSE][license_url] 
 [github]: https://github.com/socheathsok
 [course]: http://catalog.csulb.edu/preview_course_nopop.php?catoid=6&coid=55355
 [Lab1]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%201
+[Lab2]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%202
+[Lab3]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%203
+[Lab4]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%204
+[Lab5]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%205
+[Lab6]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%206
+[Lab7]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%207
+[Lab8]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%208
 [ECG Monitor]: https://www.instructables.com/ECG-Monitoring-System-by-Using-Arduino-or-AD8232/
 [Electrodes]: https://www.amazon.com/BioProtech-Universal-ECG-EKG-Electrodes/dp/B06VWVKJ5D/ref=sr_1_3?keywords=ecg+electrodes&qid=1654583398&sr=8-3
 [Arduino Uno]: https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6
