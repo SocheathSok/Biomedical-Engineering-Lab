@@ -8,7 +8,7 @@
 
 <!-- Title -->
 <h1 align="center" style="border: none">
-Automatic Maze Navigation System
+Biomedical Engineering Laboratory
 </h1>
 
 
