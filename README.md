@@ -45,13 +45,22 @@ Biomedical Engineering Laboratory
 ## Built With
 Software: 
 - [Arduino IDE][Arduino IDE]
-- 
+- [MATLAB][MATLAB]
+- [LabVIEW][LabVIEW]
+- [Biomedical Toolkit][Toolkit]
 ## 
 Hardware: 
 - [Arduino Uno][Arduino Uno]
 - [Electrodes][Electrodes]
+- [ADXL335][Accelerometer]
+- [LCD Display][LCD]
+- [Potentiometer][Resistor]
+- [Breadboard][Breadboard]
+- [Jumper Wires][Wire]
+- [LM34][Thermometer]
+- [TCS34725][RGB]
+- [Motor][Motor]
 - 
-
 <!-- Authors information -->
 ## Author
 - [Socheath Sok][github]
@@ -65,6 +74,8 @@ This project is licensed under the MIT License - see the [LICENSE][license_url] 
 <!-- Shoutout to other projects, plugin, or minor tools -->
  ## References
 - [ECG Monitor][ECG Monitor]
+- [Lcd Display in Real Time][Lcd Display in Real Time]
+- [Arduino and TCS34725 Color Sensor][Arduino and TCS34725 Color Sensor]
 
 
 <!-- Course -->
@@ -101,9 +112,22 @@ This project is licensed under the MIT License - see the [LICENSE][license_url] 
 [Lab7]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%207
 [Lab8]: https://github.com/SocheathSok/Biomedical-Engineering-Lab/tree/main/Lab%208
 [ECG Monitor]: https://www.instructables.com/ECG-Monitoring-System-by-Using-Arduino-or-AD8232/
+[Lcd Display in Real Time]: https://create.arduino.cc/projecthub/YoussefSabaa/lcd-display-in-real-time-ea0b7b
+[Arduino and TCS34725 Color Sensor]: http://arduinolearning.com/code/arduino-tcs34725-color-sensor.php
 [Electrodes]: https://www.amazon.com/BioProtech-Universal-ECG-EKG-Electrodes/dp/B06VWVKJ5D/ref=sr_1_3?keywords=ecg+electrodes&qid=1654583398&sr=8-3
 [Arduino Uno]: https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6
 [Arduino IDE]: https://www.arduino.cc/en/software
+[MATLAB]: 
+[LabVIEW]: 
+[Toolkit]: 
+[Accelerometer]: 
+[LCD]: 
+[Resistor]: 
+[Breadboard]: 
+[Wire]: 
+[Thermometer]: 
+[RGB]: https://ams.com/tcs34725
+[Motor]: 
 [Best-README-Template]: https://github.com/othneildrew/Best-README-Template
 
 
