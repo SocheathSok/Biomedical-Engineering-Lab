@@ -60,7 +60,7 @@ Hardware:
 - [LM34][Thermometer]
 - [TCS34725][RGB]
 - [Motor][Motor]
-- 
+
 <!-- Authors information -->
 ## Author
 - [Socheath Sok][github]
@@ -76,6 +76,9 @@ This project is licensed under the MIT License - see the [LICENSE][license_url] 
 - [ECG Monitor][ECG Monitor]
 - [Lcd Display in Real Time][Lcd Display in Real Time]
 - [Arduino and TCS34725 Color Sensor][Arduino and TCS34725 Color Sensor]
+- [Simple, Easy and Cheap DIY Pedometer With Arduino][Pedo]
+- [Guide for LM35, LM335 and LM34 Temperature Sensors with Arduino][temperature]
+- [ECG and Heart Rate Digital Monitor][Monitor]
 
 
 <!-- Course -->
@@ -114,20 +117,23 @@ This project is licensed under the MIT License - see the [LICENSE][license_url] 
 [ECG Monitor]: https://www.instructables.com/ECG-Monitoring-System-by-Using-Arduino-or-AD8232/
 [Lcd Display in Real Time]: https://create.arduino.cc/projecthub/YoussefSabaa/lcd-display-in-real-time-ea0b7b
 [Arduino and TCS34725 Color Sensor]: http://arduinolearning.com/code/arduino-tcs34725-color-sensor.php
+[Pedo]: https://www.instructables.com/id/Simple-Easy-and-Cheap-DIY-Pedometer-with-Arduino/.
+[temperature]: https://randomnerdtutorials.com/arduino-lm35-lm335-lm34-temperature-sensor/
+[Monitor]: https://www.instructables.com/id/ECG-and-Heart-Rate-Digital-Monitor/.
 [Electrodes]: https://www.amazon.com/BioProtech-Universal-ECG-EKG-Electrodes/dp/B06VWVKJ5D/ref=sr_1_3?keywords=ecg+electrodes&qid=1654583398&sr=8-3
 [Arduino Uno]: https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6
 [Arduino IDE]: https://www.arduino.cc/en/software
-[MATLAB]: 
-[LabVIEW]: 
-[Toolkit]: 
-[Accelerometer]: 
-[LCD]: 
-[Resistor]: 
-[Breadboard]: 
-[Wire]: 
-[Thermometer]: 
+[MATLAB]: https://www.mathworks.com/products/matlab.html
+[LabVIEW]: https://www.ni.com/en-us/shop/labview.html
+[Toolkit]: https://www.ni.com/en-us/support/downloads/tools-network/download.labview-biomedical-toolkit.html#379034
+[Accelerometer]: https://www.analog.com/en/products/adxl335.html
+[LCD]: https://www.amazon.com/Arducam-Display-Controller-Character-Backlight/dp/B019D9TYMI
+[Resistor]: https://eepower.com/resistor-guide/resistor-types/potentiometer/#:~:text=A%20potentiometer%20is%20a%20manually%20adjustable%2C%20variable%20resistor%20with%20three,sets%20the%20resistive%20divider%20ratio.
+[Breadboard]: https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all
+[Wire]: https://www.amazon.com/Breadboard-Jumper-Wire-75pcs-pack/dp/B0040DEI9M
+[Thermometer]: https://www.ti.com/product/LM34
 [RGB]: https://ams.com/tcs34725
-[Motor]: 
+[Motor]: https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/breadboard-layout
 [Best-README-Template]: https://github.com/othneildrew/Best-README-Template
 
 
